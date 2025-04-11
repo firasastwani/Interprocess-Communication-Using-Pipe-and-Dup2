@@ -1,0 +1,23 @@
+pointer
+reference
+pipe
+object
+struct
+int
+value
+signal
+assignment
+declaration
+PIPE
+function
+system call
+library call
+shell
+double
+long
+netstat
+ipc
+pipe
+struct
+int
+signal
